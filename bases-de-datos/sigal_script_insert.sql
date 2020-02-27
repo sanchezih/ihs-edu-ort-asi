@@ -340,9 +340,9 @@ INSERT INTO PROFESOR VALUES('300024',	'Leonardo',	 	'Garcia',       'lgarcia@iar
 INSERT INTO PROFESOR VALUES('300025',	'Claudio',  	'Castro',       'ccastro@iar.com', 		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300026',	'Mario',    	'Cid',          'mcid@iar.com', 		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300027',	'Rogelio',  	'Roldan',       'rroldan@iar.com', 		getDate(),	NULL);                                                                                                                                           
-INSERT INTO PROFESOR VALUES('300028',	'Roberto',  	'Bosetti',      'rbosetti@iar.com', 	getDate(),	NULL);                                                                                                                                           
+INSERT INTO PROFESOR VALUES('300028',	'Roberto',  	'Romero',		'rromero@iar.com',		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300029',	'Miguel',   	'Martinez',     'mmartinez@iar.com', 	getDate(),	NULL);                                                                                                                                           
-INSERT INTO PROFESOR VALUES('300030',	'Emiliano', 	'Kan',          'ekan@iar.com', 		getDate(),	NULL);                                                                                                                                           
+INSERT INTO PROFESOR VALUES('300030',	'Emiliano', 	'Mas',          'emas@iar.com', 		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300031',	'Diego',    	'Lopez',        'dlopez@iar.com', 		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300032',	'Carlos',   	'Vargas',       'cvargas@iar.com', 		getDate(),	NULL);                                                                                                                                           
 INSERT INTO PROFESOR VALUES('300033',	'Hugo',    		'Rojas',        'hrojas@iar.com', 		getDate(),	NULL);                                                                                                                                           
@@ -387,7 +387,7 @@ INSERT INTO PROFESOR VALUES('300071',	'Veronica', 	'Rivas',        'vrivas@iar.c
 INSERT INTO PROFESOR VALUES('300072',	'Rolando',  	'Cafrune',      'rcafrune@iar.com', 	getDate(),	NULL);
 INSERT INTO PROFESOR VALUES('300073',	'Clara',    	'Tapia',        'ctapia@iar.com', 		getDate(),	NULL);
 INSERT INTO PROFESOR VALUES('300074',	'Lautaro',  	'Rebeco',       'lrebeco@iar.com', 		getDate(),	NULL);
-INSERT INTO PROFESOR VALUES('300075',	'Raul',     	'Sauer',        'rsauer@iar.com', 		getDate(),	NULL);
+INSERT INTO PROFESOR VALUES('300075',	'Raul',     	'Diez',    	    'rdiez@iar.com', 		getDate(),	NULL);
 INSERT INTO PROFESOR VALUES('300076',	'Lucila',   	'Cautivo',      'lcautivo@iar.com', 	getDate(),	NULL);
 INSERT INTO PROFESOR VALUES('300077',	'Juan',     	'Hidalgo',      'jhidalgo@iar.com', 	getDate(),	NULL);
 INSERT INTO PROFESOR VALUES('300078',	'Carlos',   	'Monzon',       'cmonzon@iar.com', 		getDate(),	NULL);
