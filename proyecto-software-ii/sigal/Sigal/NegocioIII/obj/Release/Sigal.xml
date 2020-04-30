@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sigal.Negocio
+</name>
+</assembly>
+<members>
+<member name="M:Sigal.Negocio.Curso.GetAllByFiltros(System.String,System.String)">
+	<summary>
+ retorna todas los cursos de la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.Curso.Update(Sigal.Entidades.__PlanEstudio_figuls)">
+	<summary>
+ Actualiza un plan de estudio en la base de datos
+ </summary>
+	<param name="item"></param>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.__PlanEstudio_figuls.GetAllByFiltros(System.String,System.String)">
+	<summary>
+ retorna todas los planes de estudio de la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.__PlanEstudio_figuls.Add(Sigal.Entidades.__PlanEstudio_figuls)">
+	<summary>
+ Agrega un alumno a la base de datos
+ </summary>
+	<param name="item"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.__PlanEstudio_figuls.Update(Sigal.Entidades.__PlanEstudio_figuls)">
+	<summary>
+ Actualiza un plan de estudio en la base de datos
+ </summary>
+	<param name="item"></param>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.EstadoAlumno.GetAll">
+	<summary>
+ retorna todas los estados de los alumnos de la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.__TipoPais.GetAll">
+	<summary>
+ retorna todas los estados de los alumnos de la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sigal.Negocio.__TipoLocalidad.GetAll">
+	<summary>
+ retorna todas los estados de los alumnos de la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Sigal.Negocio.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sigal.Negocio.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sigal.Negocio.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

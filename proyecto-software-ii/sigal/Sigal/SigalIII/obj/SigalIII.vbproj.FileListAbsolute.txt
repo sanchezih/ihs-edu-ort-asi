@@ -1,0 +1,91 @@
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.exe.config
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.exe
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.exe
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.BusquedaAlumnos.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.Componentes.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.ConsultaAlumno.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.EditoAlumnoForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaCalificacionCursada.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaHoraCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaInscripCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaMaterias.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormCalificacionFinal.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormConsultaMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormConsultaPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormEditoCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormEditoMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormEditoPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormNuevoCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormNuevoInscripcionCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormNuevoInscripcionPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormNuevoMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormNuevoPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormPlanMateriaCuatrimestre.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.LoginForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.NuevoAlumnoForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.PestaniasForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.Plantilla.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.PlantillaFiltros.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.reportePrueba.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\SigalIII\obj\Debug\SigalIII.FormBusquedaMaterias_.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.exe.config
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.exe
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.BusquedaAlumnos.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.Componentes.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.ConsultaAlumno.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.EditoAlumnoForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaCalificacionCursada.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaHoraCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaInscripCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaMaterias_.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormCalificacionFinal.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormConsultaMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormConsultaPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormEditoCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormEditoMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormEditoPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormNuevoCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormNuevoInscripcionCurso.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormNuevoInscripcionPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormNuevoMateria.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormNuevoPlanEstudio.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormPlanMateriaCuatrimestre.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.FormBusquedaMaterias.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.form_principal.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.LoginForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.NuevoAlumnoForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.PestaniasForm.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.Plantilla.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.PlantillaFiltros.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.reportePrueba.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\obj\Debug\SigalIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.exe
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\SigalIII\bin\Debug\SigalIII.EntidadesIII.pdb

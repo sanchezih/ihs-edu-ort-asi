@@ -1,0 +1,81 @@
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\bin\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\EntidadesIII\obj\Debug\Sigal.Entidades.pdb

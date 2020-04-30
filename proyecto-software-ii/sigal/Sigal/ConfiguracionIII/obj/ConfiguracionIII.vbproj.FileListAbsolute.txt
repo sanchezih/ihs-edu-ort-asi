@@ -1,0 +1,20 @@
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.dll.config
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\ConfiguracionIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.dll.config
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\bin\Debug\SigalIII.ConfiguracionIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\ConfiguracionIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\ConfiguracionIII\obj\Debug\SigalIII.ConfiguracionIII.pdb

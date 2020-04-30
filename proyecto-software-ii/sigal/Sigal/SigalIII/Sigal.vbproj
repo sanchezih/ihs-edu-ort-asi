@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26C022EA-8A27-4622-BCF3-41F70C894260}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sigal.My.MyApplication</StartupObject>
+    <RootNamespace>Sigal</RootNamespace>
+    <AssemblyName>Sigal</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>Resources\sigal1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sigal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sigal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form_acerca.Designer.vb">
+      <DependentUpon>form_acerca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_acerca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Componentes.vb" />
+    <Compile Include="form_alumno_consulta.Designer.vb">
+      <DependentUpon>form_alumno_consulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_alumno_consulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_alumno_edicion.Designer.vb">
+      <DependentUpon>form_alumno_edicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_alumno_edicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_analitico.Designer.vb">
+      <DependentUpon>form_analitico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_analitico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_calificacion_cursada_alta.Designer.vb">
+      <DependentUpon>form_calificacion_cursada_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_calificacion_cursada_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_calificacion_cursada_search.Designer.vb">
+      <DependentUpon>form_calificacion_cursada_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_calificacion_cursada_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_calificacion_final_alta.Designer.vb">
+      <DependentUpon>form_calificacion_final_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_calificacion_final_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_calificacion_final_search.Designer.vb">
+      <DependentUpon>form_calificacion_final_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_calificacion_final_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_correlatividad_alta.Designer.vb">
+      <DependentUpon>form_correlatividad_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_correlatividad_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_correlatividad_search.Designer.vb">
+      <DependentUpon>form_correlatividad_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_correlatividad_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_curso_alta.Designer.vb">
+      <DependentUpon>form_curso_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_curso_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_curso_consulta.Designer.vb">
+      <DependentUpon>form_curso_consulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_curso_consulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_curso_search.Designer.vb">
+      <DependentUpon>form_curso_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_curso_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_inscripcion_curso_alta.Designer.vb">
+      <DependentUpon>form_inscripcion_curso_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_inscripcion_curso_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_inscripcion_curso_search.Designer.vb">
+      <DependentUpon>form_inscripcion_curso_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_inscripcion_curso_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_inscripcion_plan_alta.Designer.vb">
+      <DependentUpon>form_inscripcion_plan_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_inscripcion_plan_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_inscripcion_plan_search.Designer.vb">
+      <DependentUpon>form_inscripcion_plan_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_inscripcion_plan_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_plan_alta.Designer.vb">
+      <DependentUpon>form_plan_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_plan_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_pmc_alta.Designer.vb">
+      <DependentUpon>form_pmc_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_pmc_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_pmc_search.Designer.vb">
+      <DependentUpon>form_pmc_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_pmc_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_splash_screen.designer.vb">
+      <DependentUpon>form_splash_screen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_splash_screen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_plan_edicion.Designer.vb">
+      <DependentUpon>form_plan_edicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_plan_edicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_login.Designer.vb">
+      <DependentUpon>form_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_usuario_alta.Designer.vb">
+      <DependentUpon>form_usuario_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_usuario_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_usuario_cambio_pass.Designer.vb">
+      <DependentUpon>form_usuario_cambio_pass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_usuario_cambio_pass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsuarioDataSet.vb">
+      <DependentUpon>UsuarioDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaCalificacionCursada.Designer.vb">
+      <DependentUpon>__FormBusquedaCalificacionCursada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaCalificacionCursada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormBusquedaCurso.Designer.vb">
+      <DependentUpon>__FormBusquedaCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormBusquedaInscripCurso.Designer.vb">
+      <DependentUpon>__FormBusquedaInscripCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaInscripCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormBusquedaMaterias_.Designer.vb">
+      <DependentUpon>__FormBusquedaMaterias_.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaMaterias_.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormBusquedaPlanEstudio.Designer.vb">
+      <DependentUpon>__FormBusquedaPlanEstudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormBusquedaPlanEstudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormCalificacionFinal.Designer.vb">
+      <DependentUpon>__FormCalificacionFinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormCalificacionFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormEditoCorrelatividad.Designer.vb">
+      <DependentUpon>__FormEditoCorrelatividad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormEditoCorrelatividad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormEditoCurso.Designer.vb">
+      <DependentUpon>__FormEditoCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormEditoCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormEditoMateria.Designer.vb">
+      <DependentUpon>__FormEditoMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormEditoMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormEditoPlanEstudio.Designer.vb">
+      <DependentUpon>__FormEditoPlanEstudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormEditoPlanEstudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormNuevoCurso.Designer.vb">
+      <DependentUpon>__FormNuevoCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormNuevoCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormNuevoInscripcionCurso.Designer.vb">
+      <DependentUpon>__FormNuevoInscripcionCurso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormNuevoInscripcionCurso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormNuevoInscripcionPlanEstudio.Designer.vb">
+      <DependentUpon>__FormNuevoInscripcionPlanEstudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormNuevoInscripcionPlanEstudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormNuevoMateria.Designer.vb">
+      <DependentUpon>__FormNuevoMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormNuevoMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__FormNuevoPlanEstudio.Designer.vb">
+      <DependentUpon>__FormNuevoPlanEstudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__FormNuevoPlanEstudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_alumno_alta.Designer.vb">
+      <DependentUpon>form_alumno_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_alumno_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_alumno_search.Designer.vb">
+      <DependentUpon>form_alumno_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_alumno_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_materia_alta.Designer.vb">
+      <DependentUpon>form_materia_alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_materia_alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_materia_edicion.Designer.vb">
+      <DependentUpon>form_materia_edicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_materia_edicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_materia_search.Designer.vb">
+      <DependentUpon>form_materia_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_materia_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_plan_search.Designer.vb">
+      <DependentUpon>form_plan_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_plan_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_principal.Designer.vb">
+      <DependentUpon>form_principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__LoginForm.Designer.vb">
+      <DependentUpon>__LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="__PestaniasForm.Designer.vb">
+      <DependentUpon>__PestaniasForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__PestaniasForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__Plantilla.Designer.vb">
+      <DependentUpon>__Plantilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__Plantilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="__PlantillaFiltros.Designer.vb">
+      <DependentUpon>__PlantillaFiltros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="__PlantillaFiltros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMPLATE_CODE.vb" />
+    <Compile Include="UsuarioDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UsuarioDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form_acerca.resx">
+      <DependentUpon>form_acerca.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_alumno_consulta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_alumno_consulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_alumno_edicion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_alumno_edicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_analitico.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_analitico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_calificacion_cursada_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_calificacion_cursada_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_calificacion_cursada_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_calificacion_cursada_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_calificacion_final_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_calificacion_final_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_calificacion_final_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_calificacion_final_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_correlatividad_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_correlatividad_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_correlatividad_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_correlatividad_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_curso_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_curso_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_curso_consulta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_curso_consulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_curso_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_curso_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_inscripcion_curso_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_inscripcion_curso_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_inscripcion_curso_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_inscripcion_curso_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_inscripcion_plan_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_inscripcion_plan_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_inscripcion_plan_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_inscripcion_plan_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_plan_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_plan_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_plan_edicion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_plan_edicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_pmc_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_pmc_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_pmc_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_pmc_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_splash_screen.resx">
+      <DependentUpon>form_splash_screen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_usuario_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_usuario_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_usuario_cambio_pass.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_usuario_cambio_pass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormBusquedaCalificacionCursada.resx">
+      <DependentUpon>__FormBusquedaCalificacionCursada.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormBusquedaCurso.resx">
+      <DependentUpon>__FormBusquedaCurso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormBusquedaInscripCurso.resx">
+      <DependentUpon>__FormBusquedaInscripCurso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormBusquedaMaterias_.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormBusquedaMaterias_.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormBusquedaPlanEstudio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormBusquedaPlanEstudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormCalificacionFinal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormCalificacionFinal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormEditoCurso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormEditoCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormEditoMateria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormEditoMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormEditoPlanEstudio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormEditoPlanEstudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormNuevoCurso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormNuevoCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormNuevoInscripcionCurso.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormNuevoInscripcionCurso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormNuevoInscripcionPlanEstudio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormNuevoInscripcionPlanEstudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormNuevoMateria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormNuevoMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__FormNuevoPlanEstudio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__FormNuevoPlanEstudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_alumno_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_alumno_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_alumno_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_alumno_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_materia_alta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_materia_alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_materia_edicion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_materia_edicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_materia_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_materia_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_plan_search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_plan_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_principal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>form_principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__LoginForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__PestaniasForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__PestaniasForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__Plantilla.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__Plantilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__PlantillaFiltros.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>__PlantillaFiltros.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="UsuarioDataSet.xsc">
+      <DependentUpon>UsuarioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UsuarioDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UsuarioDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UsuarioDataSet.xss">
+      <DependentUpon>UsuarioDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EntidadesIII\Entidades.vbproj">
+      <Project>{0B7ACC7A-C347-4F2E-AD6E-D58B7E3FD995}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NegocioIII\Negocio.vbproj">
+      <Project>{469AACDB-4005-42B7-855A-337899BC2975}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layout_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layout_content.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\building_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_go.ico" />
+    <None Include="Resources\user_add.ico" />
+    <None Include="Resources\user.ico" />
+    <None Include="Resources\timeline_marker.ico" />
+    <None Include="Resources\table_multiple.ico" />
+    <None Include="Resources\table_add.ico" />
+    <None Include="Resources\table.ico" />
+    <None Include="Resources\tab_add.ico" />
+    <None Include="Resources\shape_square_add.ico" />
+    <None Include="Resources\shape_square.ico" />
+    <None Include="Resources\shape_move_back.ico" />
+    <None Include="Resources\Salir.ico" />
+    <None Include="Resources\report_user.ico" />
+    <None Include="Resources\report_picture.ico" />
+    <None Include="Resources\report_add.ico" />
+    <None Include="Resources\report.ico" />
+    <None Include="Resources\layout_content.ico" />
+    <None Include="Resources\layout_add.ico" />
+    <None Include="Resources\images.ico" />
+    <None Include="Resources\image_add.ico" />
+    <None Include="Resources\image.ico" />
+    <None Include="Resources\cross.ico" />
+    <None Include="Resources\calendar_edit.ico" />
+    <None Include="Resources\calendar_add.ico" />
+    <None Include="Resources\calendar.ico" />
+    <None Include="Resources\building_go.ico" />
+    <None Include="Resources\building_add.ico" />
+    <None Include="Resources\building.ico" />
+    <None Include="Resources\application_cascade.ico" />
+    <None Include="Resources\application_add.ico" />
+    <None Include="Resources\application.ico" />
+    <None Include="Resources\glossymetal.jpg" />
+    <None Include="Resources\application_add.png" />
+    <None Include="Resources\application.png" />
+    <None Include="Resources\application_cascade.png" />
+    <None Include="Resources\report_add.png" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\report_picture.png" />
+    <None Include="Resources\table_add.png" />
+    <None Include="Resources\tab_add.png" />
+    <None Include="Resources\table_multiple.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\timeline_marker.png" />
+    <None Include="Resources\shape_square_add.png" />
+    <None Include="Resources\shape_square.png" />
+    <None Include="Resources\shape_move_back.png" />
+    <None Include="Resources\report_user.png" />
+    <None Include="Resources\image.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\image_add.png" />
+    <None Include="Resources\building.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\calendar_add.png" />
+    <None Include="Resources\calendar.png" />
+    <None Include="Resources\calendar_edit.png" />
+    <None Include="Resources\sigal1.ico" />
+    <None Include="Resources\sigal.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config_backup" />
+    <None Include="Resources\tick.png" />
+    <Content Include="tareas.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

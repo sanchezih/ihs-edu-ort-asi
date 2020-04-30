@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DatosIII.vbproj.GenerateResource.Cache
+obj\Debug\SigalIII.DatosIII.Resources.resources
+bin\Debug\SigalIII.DatosIII.dll
+bin\Debug\SigalIII.DatosIII.pdb
+bin\Debug\SigalIII.xml
+bin\Debug\SigalIII.ConfiguracionIII.dll
+bin\Debug\SigalIII.EntidadesIII.dll
+bin\Debug\SigalIII.ConfiguracionIII.pdb
+bin\Debug\SigalIII.EntidadesIII.pdb
+obj\Debug\SigalIII.DatosIII.dll
+obj\Debug\SigalIII.xml
+obj\Debug\SigalIII.DatosIII.pdb

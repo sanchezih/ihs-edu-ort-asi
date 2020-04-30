@@ -1,0 +1,26 @@
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\NegocioIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Proyecto Visual\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\NegocioIII.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb

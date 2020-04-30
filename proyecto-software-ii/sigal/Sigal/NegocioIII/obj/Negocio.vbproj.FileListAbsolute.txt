@@ -1,0 +1,123 @@
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy of bkp\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\SigalIII.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\Proyectos_VS2005\Copy (2) of Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\Proyectos 26072009\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.NegocioIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.DatosIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\SigalIII.EntidadesIII.pdb
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.dll
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.xml
+C:\Documents and Settings\Ignacio\Desktop\3007\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\SigalIII.NegocioIII.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.pdb
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.Resources.resources
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.dll
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.xml
+E:\ORT\6to cuatrimestre\Proyecto de software II\0508\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.pdb
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.dll
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\0608\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Negocio.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Entidades.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Configuracion.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\bin\Debug\Sigal.Datos.pdb
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.Resources.resources
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.dll
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.xml
+C:\Documents and Settings\Ignacio\Desktop\1408\Proyectos_VS2005\Sigal\NegocioIII\obj\Debug\Sigal.Negocio.pdb

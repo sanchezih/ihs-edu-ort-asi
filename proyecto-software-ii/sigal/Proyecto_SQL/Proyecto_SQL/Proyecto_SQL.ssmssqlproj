@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Proyecto_SQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ZARA:ZARA\Ignacio">
+          <Created>2009-12-19T15:38:13.625-03:00</Created>
+          <Type>SQL</Type>
+          <Server>ZARA</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="sigal_pau_insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZARA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZARA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_pau_queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZARA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZARA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_pau_search.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_search.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_pau_update.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_db.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_db.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_pau_get_one.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_get_one.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_pau_delete.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_pau_delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_jobs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZARA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZARA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sigal_jobs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_triggers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_errors.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sigal_errors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sigal_initialize.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ZARA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ZARA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sigal_initialize.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
