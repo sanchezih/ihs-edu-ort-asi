@@ -1,9 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\EntidadesIII.vbproj.GenerateResource.Cache
-bin\Debug\SigalIII.EntidadesIII.dll
-bin\Debug\SigalIII.EntidadesIII.pdb
-bin\Debug\SigalIII.xml
-obj\Debug\SigalIII.EntidadesIII.Resources.resources
-obj\Debug\SigalIII.EntidadesIII.dll
-obj\Debug\SigalIII.xml
-obj\Debug\SigalIII.EntidadesIII.pdb
