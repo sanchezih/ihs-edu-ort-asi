@@ -1,0 +1,84 @@
+/*-----------------------------------------------------------------------*/
+Dados una lista L con enlaces simples compuesta por numeros enteros y un
+valor x de tipo entero. Diseñe e implemente algoritmos que permitan:
+(c) Buscar el nodo cuyo valor sea x.
+/*-----------------------------------------------------------------------*/
+
+Procedimiento Principal ()
+
+VARIABLES
+	L: TApNodoListaSimple
+	x: Entero
+	listaOK: Entero
+	res: Entero
+	miDato: Entero
+
+COMIENZO
+	L=NULL
+	
+  	LeerNumero(miDato)  
+	
+   	Mientras (miDato <> (*VARIABLE DE CORTE*)) Hacer
+			AgregarAListaSimple(L,miDato) 
+     		LeerNumero(miDato);
+ 	FinMientras
+	
+	Encontrado = BuscarEnListaSimple(L, x)
+	Si (Encontrado == 1)
+		MostrarMensaje("El dato fue encontrado")
+	Sino
+		MostrarMensaje("El dato NO fue encontrado")
+	FinSi
+	
+	MostrarMensaje("Presione cualquier tecla para salir...")
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : AgregarAListaSimple
+/*Proposito: 
+/*Entrada  : 
+/*Salida   : 
+/*Pre      : 
+/*Pos      : 
+/*-----------------------------------------------------------------------*/
+Procedimiento AgregarAListaSimple((e/s) laLista: TApNodoListaSimple, (e) miDato: entero)
+	
+COMIENZO
+	NUEVO (APAUX)
+	APAUX*.dato = miDato
+	Si(laLista == NULL) Entonces
+		APAUX*.sig = NULL
+		laLista = APAUX
+	Sino
+		APAUX*.sig = laLista
+		laLista = APAUX
+	FinSi	
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : BuscarDato
+/*Proposito: Buscar un elemento x pasado como parametro dentro de una lista de enteros.
+/*Entrada  : Entero y Lista.
+/*Salida   : Entero.
+/*Pre      : La lista debe contener numeros enteros y al menos un nodo.
+/*Pos      : 1 si el elemento se encontro, 0 en caso contrario.
+/*-----------------------------------------------------------------------*/
+Procedimiento BuscarEnListaSimple((e) L: TApNodoListaSimple, (e) x: Entero): Entero
+
+VARIABLES
+	P: TApNodoListaSimple
+	res: Entero
+	res = 0
+
+COMIENZO
+	P=L
+	Mientras ((P <> NULL) y (res = 0)) Hacer
+		Si (P*.dato == x) Entonces
+			res = 1
+		Sino
+			P = P*.sig
+		FinSi
+	FinMientras
+	
+	Retornar (res)
+FIN

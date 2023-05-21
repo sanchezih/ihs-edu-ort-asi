@@ -1,0 +1,44 @@
+/*-----------------------------------------------------------------------*/
+Diseñe e implemente un algoritmo que permita generar una lista con
+enlaces simples compuesta por numeros enteros.
+/*-----------------------------------------------------------------------*/
+
+Procedimiento Principal()
+
+VARIABLES
+	L: TApNodoListaSimple
+	miDato: Entero
+
+COMIENZO
+	L = NULL
+	LeerNumero(miDato)
+	
+   	Mientras(miDato <> (*VARIABLE DE CORTE*)) Hacer
+		AgregarAListaSimple(L, miDato) 
+     	LeerNumero(miDato);
+ 	FinMientras  
+
+	MostrarLista(L)
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : AgregarAListaSimple
+/*Proposito: 
+/*Entrada  : 
+/*Salida   : 
+/*Pre      : 
+/*Pos      : 
+/*-----------------------------------------------------------------------*/
+Procedimiento AgregarAListaSimple((e/s)laLista: TApNodoListaSimple, (e)miDato: Entero)
+	
+COMIENZO
+	NUEVO(APAUX)
+	APAUX*.dato = miDato
+	Si(laLista == NULL) Entonces
+		APAUX*.sig = NULL
+		laLista = APAUX
+	Sino
+		APAUX*.sig = laLista
+		laLista = APAUX
+	FinSi	
+FIN

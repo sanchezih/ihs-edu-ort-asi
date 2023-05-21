@@ -1,0 +1,103 @@
+/*-----------------------------------------------------------------------*/
+Dados una lista L con enlaces simples compuesta por numeros enteros y un
+valor x de tipo entero. Diseñe e implemente algoritmos que permitan:
+(a) Contar en forma iterativa la cantidad de nodos.
+/*-----------------------------------------------------------------------*/
+
+Procedimiento Principal ()
+
+VARIABLES
+	L: TApNodoListaSimple
+	x: Entero
+	listaOK: Entero
+	res: Entero
+	miDato: Entero
+
+COMIENZO
+	L=NULL
+	
+  	LeerNumero(miDato)  
+	
+   	Mientras (miDato <> (*VARIABLE DE CORTE*)) Hacer
+			AgregarAListaSimple(L,miDato) 
+     		LeerNumero(miDato);
+ 	FinMientras  
+
+	listaOK = VerificarLista (L)
+	Si (listaOK == 1)
+		res = ContarNodos(L)
+		MostrarMensaje("La cantidad de nodos es (res)")
+	Sino
+		MostrarMensaje("La lista no tiene nodos")
+	FinSi
+	
+	MostrarMensaje("Presione cualquier tecla para salir...")
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : AgregarAListaSimple
+/*Proposito: 
+/*Entrada  : 
+/*Salida   : 
+/*Pre      : 
+/*Pos      : 
+/*-----------------------------------------------------------------------*/
+Procedimiento AgregarAListaSimple((e/s) laLista: TApNodoListaSimple, (e) miDato: entero)
+	
+COMIENZO
+	NUEVO (APAUX)
+	APAUX*.dato = miDato
+	Si(laLista == NULL) Entonces
+		APAUX*.sig = NULL
+		laLista = APAUX
+	Sino
+		APAUX*.sig = laLista
+		laLista = APAUX
+	FinSi	
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : VerificarLista
+/*Proposito: Verificar que la lista tenga por lo menos un nodo.
+/*Entrada  : Lista.
+/*Salida   : Entero
+/*Pre      :
+/*Pos      : 1 si la lista tiene al menos un nodo. 0 si no tiene ninguno.
+/*-----------------------------------------------------------------------*/
+Procedimiento VerificarLista((e) L: TApNodoListaSimple): Entero
+
+VARIABLES
+	V: Entero
+	V=1
+
+COMIENZO
+	Si (L == NULL) Entonces
+		V = 0
+	FinSi
+	
+	Retornar (V)
+FIN
+
+/*-----------------------------------------------------------------------*/
+/*Proced.  : ContarNodos
+/*Proposito: Contar la cantidad de nodos que posee la lista ingresada como parametro.
+/*Entrada  : Lista.
+/*Salida   : Entero.
+/*Pre      :
+/*Pos      : Entero indicando la cantidad de nodos que posee la lista ingresada como parametro.
+/*-----------------------------------------------------------------------*/
+Procedimiento ContarNodos((e) L: TApNodoListaSimple): Entero
+
+VARIABLES
+	P: TApNodoListaSimple
+	res: Entero
+
+COMIENZO
+	P=L
+	Mientras (P <> NULL) Hacer
+		res = res + 1
+		P = P*.sig
+	FinMientras
+	
+	Retornar (res)
+FIN

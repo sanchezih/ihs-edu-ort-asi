@@ -1,0 +1,141 @@
+/*
+  Name: 
+  Copyright: 
+  Author: Ignacio Sanchez
+  Date: 02/11/07
+  Description: Generar una lista L con enlaces dobles y elementos de
+  tipo entero. Ordenar los elementos.
+*/
+
+/*--------------------------------------------------------------*/
+/*Declaración de constantes y macros
+/*--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------*/
+/*Declaración de estructuras
+/*--------------------------------------------------------------*/
+typedef struct TNodoListaSimple * TapNodoListaSimple;
+
+typedef struct TNodoListaSimple{
+         int dato;
+         TapNodoListaSimple ant;
+         TapNodoListaSimple sig;
+         }TNodoListaSimple;
+
+
+
+/*--------------------------------------------------------------*/
+/*Declaración de prototipos de funciones
+/*--------------------------------------------------------------*/
+void LeerDato(int*);
+void AgregarAListaSimple(TapNodoListaSimple *,int);
+void OrdenarLista(TapNodoListaSimple*);
+void MostrarListaSimple(TapNodoListaSimple);
+
+/*--------------------------------------------------------------*/
+/*Definición de la función principal
+/*--------------------------------------------------------------*/
+Procedimiento Principal()
+
+//VARIABLES
+
+	miDato: Entero
+	res: Entero
+	miLista: TapNodoListaSimple
+	miListaOrdenada: TapNodoListaSimple
+
+//COMIENZO
+
+	miLista=NULL
+	LeerDato(miDato)
+
+	Mientras (miDato!=99) Hacer
+		AgregarAListaDoble(miLista, miDato)
+		LeerDato(miDato)
+	FinMientras
+	
+	Si (miLista==NULL) Entonces
+		MostrarMensaje("La lista está vacía")
+	Sino
+		miListaOrdenada = miLista
+		MostrarMensaje("La lista en el orden de ingreso es:")
+        MostrarListaDoble(miLista)
+		OrdenarLista(miListaOrdenada)
+        MostrarMensaje("La lista ordenada es:")
+        MostrarListaDoble(miListaOrdenada)
+	FinSi
+	
+	MostrarMensaje("Presione cualquier tecla para salir...")
+FIN
+
+/*--------------------------------------------------------------*/
+/*Definición de otras funciones*/
+/*--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------*/
+/*Función  : AgregarAListaDobleAlFinal
+/*Propósito: Agregar un elemento de tipo entero al final
+de una lista doble.
+/*Entrada  : 
+/*Salida   : Lista
+/*Pre      : 
+/*Pos      : 
+/*--------------------------------------------------------------*/
+Procedimiento AgregarAListaDobleAlFinal( pri: TapNodoListaDoble, ult: TapNodoListaDoble, miNumero: Entero)
+
+//VARIABLES
+
+	p: TapNodoListaDoble
+	
+//COMIENZO
+
+	Nuevo (p) //VER ESTO!!!
+	
+	p*.dato = miNumero
+
+	Si (pri == NULL) Entonces
+		pri*.dato = miNumero
+		pri*.ant = NULL
+		pri*.sig = NULL
+		ult = pri
+	Sino
+		ult*.sig = p
+		p*.ant = ult
+		ult = p
+		ult*.sig = NULL
+	FinSi	
+FIN
+
+/*--------------------------------------------------------------*/
+/*Función  : OrdenarLista
+/*Propósito: Ordenar los elementos de una lista doble
+de menor a mayor
+/*Entrada  : lista simple
+/*Salida   : lista simple 
+/*Pre      : La lista debe tener valores para ordenar
+/*Pos      : Lista simple ordenada.
+/*--------------------------------------------------------------*/
+
+Procedimiento OrdenarListaDoble ( L: TapNodoListaDoble)
+//VARIABLES
+	P: TapNodoListaDoble
+	Q: TapNodoListaDoble
+	aux: Entero
+	
+//COMIENZO
+	P = L
+	
+	Mientras (P->sig != NULL) Hacer
+		Q = P->sig
+		
+		Mientras (Q != NULL) Hacer
+			Si (Q->dato > P->dato) Entonces
+				aux = P->dato
+				P->dato = Q->dato
+				Q->dato = aux
+			FinSi
+			Q = Q->sig
+		FinMientras
+		P = P->sig
+	FinMientras
+//FIN

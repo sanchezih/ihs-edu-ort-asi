@@ -1,0 +1,230 @@
+/*--------------------------------------------------------------*/
+/*Ejercicio 1 (Incluye Procedimiento Principal)
+/*Diseñe los procedimientos y funciones necesarios que permitan
+/*(SOLO EN EL ORDEN INDICADO):
+/*(a) Ingresar por la entrada estándar cadenas de caracteres
+/*hasta que se ingrese la cadena “Fin”. Pueden ingresarse repeticiones.
+/*(b) Agregar cada cadena de caracteres a una lista doble sin
+/*incluir las repeticiones.
+/*(c) Mostrar recursivamente la lista doble.
+/*--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------*/
+/*Declaración de constantes y macros
+/*--------------------------------------------------------------*/
+Constante DIM 11
+
+/*--------------------------------------------------------------*/
+/*Declaración de estructuras
+/*--------------------------------------------------------------*/
+//DEFINO EL TIPO CADENA
+Tipo TCadena = arreglo[DIM] de Caracter
+
+//DEFINO EL TIPO ABB
+Tipo TApNodoListaDoble = *TNodoListaDoble
+
+Tipo TNodoListaDoble =
+			Registro
+				palabra: cadena
+				ant: TApNodoListaDoble
+				sig: TApNodoListaDoble
+			FinRegistro
+
+/*--------------------------------------------------------------*/
+/*Definición de la función principal
+/*--------------------------------------------------------------*/
+Procedimiento Principal()
+
+	//VARIABLES
+	miPalabra: TCadena
+	miLista: TApNodoListaDoble
+	res: Entero
+	aux: Entero
+
+	//INICIALIZACION
+	miLista = NULL
+	res = 0
+	aux = 0
+
+	//COMIENZO
+	Mostrar ("Ingrese una palabra para agregar a la lista doble. "Fin" para terminar.")
+	LeerCadena(miPalabra)
+	aux = CompararCadenas(miPalabra, "Fin")
+	Mientras (aux == 0) Hacer
+		res = BuscarEnListaDoble(miLista, miPalabra)
+		Si(res == 0)Entonces
+			AgregarEnListaDoble(miLista, miPalabra)
+		FinSi
+		LeerCadena(miPalabra)
+		aux = CompararCadenas(miPalabra, "Fin")
+	FinMientras
+	
+	MostrarListaDoble (miLista)
+	
+% VER: en las llamadas a los procedimientos y funciones, no se
+% especifica el tipo de datos.
+%/VER: "Fin" es una cadena, al igual que miPalabra, luego, no pueden
+% ser comparadas con <>,
+% debe usarse uuna función, por ejemplo CompararCadenas(miPalabra, "Fin").
+	
+/*--------------------------------------------------------------*/
+/*Definición de otras funciones
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+/*Procedimiento	: AgregarEnListaDoble
+/*Propósito		: Agregar palabras en una lista doble.
+/*Entrada		: La lista destino y la palabra a ingresar.
+/*Salida		: Lista doble.
+/*Precondicion	: 
+/*Postcondicion	: La lista con la palabra agregada.
+/*--------------------------------------------------------------*/
+Procedimiento AgregarEnListaDoble( (e/s)lista: TApNodoListaDoble,
+ (e)palabra: TCadena )
+
+	//VARIABLES
+	APAUX: TApNodoListaDoble
+	
+	//COMIENZO
+	Nuevo(APAUX)
+	GrabarPalabra(APAUX*.palabra, palabra)
+	
+	Si (lista == NULL) Entonces	
+		APAUX*.ant = NULL
+		APAUX*.sig = NULL
+		lista = APAUX
+	Sino
+		APAUX*.sig = lista
+		APAUX*.ant = NULL
+		lista*.ant = APAUX
+	FinSi	
+	lista = APAUX
+	
+/*--------------------------------------------------------------*/
+/*Procedimiento	: GrabarPalabra
+/*Proposito		: Asigna una cadena a otra cadena.
+/*Entrada		: palabra.
+/*Salida		: palabra.
+/*Precondicion	: -
+/*Postcondicion	: Valor actualizado de palabraLista.
+/*--------------------------------------------------------------*/
+Procedimiento GrabarPalabra( (e/s)palabraLista: TCadena, (e)palabra: TCadena )
+	
+	//VARIABLES
+	i: Entero
+	
+	//INICIALIZACIONES
+	i = 0
+
+	//COMIENZO
+	Mientras (palabra[i]!= '\0') Hacer
+		palabraLista[i] = palabra[i]
+		i = i+1
+	FinMientras
+	
+	palabraLista[i] = '\0'
+	
+/*--------------------------------------------------------------*/
+/*Procedimiento : MostrarListaDoble
+/*Propósito		: Permite mostrar por pantalla una lista.
+/*Entrada		: Lista doble.
+/*Salida		: Lista doble.
+/*Precondicion	: -
+/*Pos			: Lista doble con los datos de sus nodos.
+/*--------------------------------------------------------------*/ 
+Procedimiento MostrarListaDoble ( (e/s)lista: TApNodoListaDoble )
+
+	//VARIABLES
+	APAUX: TApNodoListaDoble
+	
+	//COMIENZO
+	APAUX = lista
+	Si (lista <> NULL) Entonces
+		MostrarPalabra(APAUX*.palabra)
+		MostrarListaDoble(APAUX*.sig)
+	FinSi
+	
+/*--------------------------------------------------------------*/
+/*Función	: MostrarPalabra
+/*Propósito	: Muestra cadenas por la salida estandar.
+/*Entrada	: miPalabra
+/*Salida	: -
+/*Pre		: -
+/*Pos		: Muestra palabra que se encuentra en un nodo.
+/*--------------------------------------------------------------*/
+Funcion MostrarPalabra( (e) miPalabra: TCadena )
+
+	//VARIABLES
+	i: Entero
+	
+	//INICIALIZACIONES
+	i = 0
+	
+	//COMIENZO
+	Mientras(miPalabra[i] <> '\0')
+		GrabarCaracter(miPalabra[i])  //putchar(miPalabra[i]);
+		i = i+1
+	FinMientras
+	
+/*--------------------------------------------------------------*/
+/*Funcion	: BuscarEnListaDoble
+/*Propósito	: Verifica si en la lista doble, ya existe una palabra
+/*que empieza con la misma letra que la que se ingreso para agregar.
+/*Entrada	: palabra
+/*Salida	: Entero
+/*Pre		: 
+/*Pos		: Retorna 1 si existe, 0 en caso contrario.
+/*--------------------------------------------------------------*/ 
+Funcion BuscarEnListaDoble( (e)lista: TApNodoListaDoble, (e)pal: palabra):Entero
+
+	//VARIABLES
+	existe: Entero
+	
+	//INICIALIZACIONES
+	existe = 0
+	
+	//COMIENZO
+	Mientras ( (lista <> NULL) Y (existe == 0) ) Hacer	
+		existe = CompararCadenas(lista*.dato, palabra)
+		lista = lista*.sig
+	FinMientras
+	
+	Retornar existe
+	
+% VER: aquí hay que comparar las cadenas en todos sus caracteres,
+% por ejemplo:
+% existe=CompararCadenas(lista*.dato, palabra)
+% Es decir, que existe devuelve 1 si las cadenas son iguales y 0 en caso contrario. Revisar el comentario al comenienzo del pseudo.
+	
+/*--------------------------------------------------------------*/
+/*Funcion	: CompararCadenas
+/*Propósito	: 
+/*Entrada	: 
+/*Salida	: 
+/*Pre		: 
+/*Pos		: 
+/*--------------------------------------------------------------*/ 
+Funcion CompararCadenas( (e)pal1: palabra, (e)pal2: palabra):Entero
+
+	//VARIABLES
+	i: Entero
+	res: Entero
+	
+	//INICIALIZACIONES
+	i = 1
+	res = 1
+	
+	//COMIENZO
+
+	Mientras ( (pal1[i] <> "\0") Y (res==1) ) Hacer
+		Si(pal1[i] == pal2[i]) Entonces
+			i = i+1
+		Sino
+			res = 0
+		FinSi
+	FinMientras
+	
+	Si(pal2[i] <> "\0")Entonces
+		res = 0
+	FinSi
+	
+	Retornar res
